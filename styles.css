@@ -1,0 +1,43 @@
+/* div {
+    height: 250px;
+    background-color: purple;
+    color: white;
+    font-size: 50px;
+    margin: 20px;
+
+} */
+
+.container {
+    margin-bottom: 50px;
+}
+
+
+
+.row {
+    border: 1px solid blue;
+    background-color: orange;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 10px;
+} 
+
+.col {
+    background-color: purple;
+    color: white;
+    font-size: 50px;
+    border: 1px solid black;
+}
+
+
+.columna {
+    background-color: purple;
+    color: white;
+    font-size: 50px;
+    border: 1px solid black;
+}
+
+
+i {
+    font-size: 250px;
+    color: blue;
+}
